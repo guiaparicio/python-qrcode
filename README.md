@@ -1,5 +1,5 @@
 # python-qrcode
 
-## Instalação de Requerimentos
+## install requirements
 
 pip install -r requirements.txt
